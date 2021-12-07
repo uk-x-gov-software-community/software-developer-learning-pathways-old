@@ -1,5 +1,4 @@
 # software-developer-learning-pathways
-To collate ideas, materials, resources, links, guides, howtos to help software engineers and developers to grow and progress
 
 CDDO are working on a learning pathway for software engineers and developers. The pathway will be a place where any developer will be able to go to find out what learning opportunities exist for them that could help them progress in their role and develop new skills. 
 
