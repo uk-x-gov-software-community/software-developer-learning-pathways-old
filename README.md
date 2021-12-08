@@ -11,3 +11,8 @@ We also want to know about anything you haven't found useful and why. Or anythin
 We know that some work has been done in this area by some departments/communities and we want to hear about that too. 
 
 Please share your ideas here - thank you!
+
+You can do that by:
+
+1. raising a pull request with suggested resources/materials
+2. open a [github issue](https://github.com/uk-x-gov-software-community/software-developer-learning-pathways/issues) with any suggestions
