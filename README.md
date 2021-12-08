@@ -16,3 +16,5 @@ You can do that by:
 
 1. raising a pull request with suggested resources/materials
 2. open a [github issue](https://github.com/uk-x-gov-software-community/software-developer-learning-pathways/issues) with any suggestions
+
+If you'd like to get more involved by helping to coordinate this work please let us know!
