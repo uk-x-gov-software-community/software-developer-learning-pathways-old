@@ -1,5 +1,8 @@
-# Software developer learning pathways
+# ARCHIVED - Software developer learning pathways
 
+This respository has been archived and all content moved to [https://github.com/uk-x-gov-software-community/software-developer-learning-pathways](https://github.com/uk-x-gov-software-community/software-developer-learning-pathways)
+
+# Readme
 CDDO are working on a learning pathway for software engineers and developers. The pathway will be a place where any developer will be able to go to find out what learning opportunities exist for them that could help them progress in their role and develop new skills. 
 
 We're now crowdsourcing ideas from the community to help build the pathway. We want to know about any resources you've found useful that have helped you become good at your job. 
